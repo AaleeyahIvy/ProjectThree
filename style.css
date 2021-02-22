@@ -1,0 +1,45 @@
+#cone {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+#vanilla {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#chocolate {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#strawberry {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#sprinkles{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#face {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+#buttons {
+    border: none;
+    padding: 12px 32px;
+    background-color: rgb(255, 255, 255);
+    display:table-row-group;
+}
+#buttons:hover {
+    background-color: rgb(226, 226, 226);
+}
+body {
+    display:inline-block;
+    color: rgba(27, 25, 25, 0.788);
+    background-color: rgba(22, 201, 255, 0.336);
+    font-family: 'Courier New', Courier, monospace;
+}
